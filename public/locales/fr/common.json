@@ -1,0 +1,36 @@
+{
+  "global": {
+    "goToHomepage": "Retournez à la page d'accueil",
+    "welcome": "Bienvenue sur mon site web !"
+  },
+  "error": {
+    "default": {
+      "title": "Une erreur indéterminée s'est produite !"
+    },
+    "404": {
+      "title": "Il semblerait que tu es allé un peu trop loin...",
+      "subtitle": "La page que tu cherches n'existe pas"
+    },
+    "500": {
+      "title": "Une erreur s'est produite de mon côté !",
+      "subtitle": "La page que tu cherches n'est pas disponible"
+    }
+  },
+  "language": {
+    "current": "FR",
+    "en": {
+      "switch": "Passer au site en anglais",
+      "flagAlt": "Drapeau Anglais"
+    },
+    "fr": {
+      "switch": "Passer au site en français",
+      "flagAlt": "Drapeau Français"
+    }
+  },
+  "themes": {
+    "activate": {
+      "default": "Activer le thème de couleur système (par défaut)",
+      "withName": "Activer le thème de couleur \"{{name}}\""
+    }
+  }
+}

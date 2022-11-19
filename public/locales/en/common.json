@@ -1,0 +1,36 @@
+{
+  "global": {
+    "goToHomepage": "Go back to the homepage",
+    "welcome": "Welcome to my website !"
+  },
+  "error": {
+    "default": {
+      "title": "An undetermined error occured !"
+    },
+    "404": {
+      "title": "It seems you went a bit too far...",
+      "subtitle": "The page you are looking for do not exist"
+    },
+    "500": {
+      "title": "An error occured on my side !",
+      "subtitle": "The page you are looking for is not available"
+    }
+  },
+  "language": {
+    "current": "EN",
+    "en": {
+      "switch": "Switch to the English website",
+      "flagAlt": "English flag"
+    },
+    "fr": {
+      "switch": "Switch to the French website",
+      "flagAlt": "French flag"
+    }
+  },
+  "themes": {
+    "activate": {
+      "default": "Activate system (default) color theme",
+      "withName": "Activate \"{{name}}\" color theme"
+    }
+  }
+}
